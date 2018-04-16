@@ -1,0 +1,20 @@
+body{
+	margin:none;
+	overflow:hidden;
+}
+
+#canvas{
+	width:80vh;
+	height:80vh;
+	margin:10vh;
+	border:2px solid black;
+}
+
+.controlls{
+	width:20vw;
+	background:lightgrey;
+	position:fixed;
+	top:0;
+	right:0;
+	height:100vh;
+}
